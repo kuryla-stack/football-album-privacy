@@ -1,0 +1,45 @@
+Album — Privacy Policy
+
+Effective date: 21 September 2026
+Owner contact: replace-with-owner-email@example.com
+
+Album is a football sticker and card collection app. This policy explains what
+the app stores and what it does not collect.
+
+What Album stores
+
+Album stores your card collection, duplicate counts, coins, mission and
+achievement progress, statistics, settings, and whether onboarding has been
+completed. This information is stored in Album's private app storage on your
+device so that your collection is still there when you reopen the app.
+
+Album does not require an account and does not ask for your name, email
+address, phone number, contacts, precise location, photos, or contacts.
+
+No advertising, analytics, or cloud service
+
+Album contains no advertisements, advertising identifiers, analytics, or crash
+reporting service. It contains no third-party advertising, analytics, login, or
+cloud-storage SDK. Album uses no third-party service SDKs. Album does not send
+your collection or device information to a developer server, and it does not
+provide cloud sync.
+
+The app's audio, card catalogue, and collection logic run locally. Network
+access is not needed for the app's collection features. If you use Android's
+copy or share tools yourself, the Android operating system may make the copied
+collection code available to the destination you choose; that action is under
+your control and is separate from Album's private storage.
+
+Your choices and deletion
+
+You can reset your collection and progress from Settings inside Album. You can
+also remove all app data through Android settings. Uninstalling Album deletes
+the data held in the app's private storage, subject to any device-level backup
+or restore features that you control through Android.
+
+Children and changes
+
+Album is published for an adult audience and does not knowingly collect
+personal information from anyone. If the app's data practices change, this
+policy will be updated with a new effective date. Questions about this policy
+can be sent to replace-with-owner-email@example.com.
