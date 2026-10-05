@@ -1,7 +1,7 @@
 Album — Privacy Policy
 
 Effective date: 21 September 2026
-Owner contact: replace-with-owner-email@example.com
+Owner contact: salmanrafiq5655@gmail.com
 
 Album is a football sticker and card collection app. This policy explains what
 the app stores and what it does not collect.
@@ -42,4 +42,4 @@ Children and changes
 Album is published for an adult audience and does not knowingly collect
 personal information from anyone. If the app's data practices change, this
 policy will be updated with a new effective date. Questions about this policy
-can be sent to replace-with-owner-email@example.com.
+can be sent to salmanrafiq5655@gmail.com
